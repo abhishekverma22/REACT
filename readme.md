@@ -121,3 +121,18 @@ Steps:
 
 
 
+------------------------------------------------------------------------------------------------------------------------------------------
+
+## HOOKS 
+
+1. useState - take one value this is default value
+useState(default Value)
+
+and return array with 2 value  so store in variable 
+let [varName, setCount] = useState(default value)
+varname can take any name 
+setCount can take any name and it is function.
+
+setCount(logic) 
+
+
